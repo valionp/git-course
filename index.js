@@ -11,3 +11,5 @@ listOfBuys.forEach((element) => {
 		})
 	})
 })
+
+console.log('hello, GitHub!')
